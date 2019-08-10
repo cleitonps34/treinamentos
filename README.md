@@ -1,0 +1,2 @@
+# treinamentos
+para programação inicial
